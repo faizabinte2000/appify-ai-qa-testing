@@ -18,7 +18,7 @@ EchoGPT-QA-Testing/
 │   └── ...
 │
 ├── UI-UX-Review/
-│   └── UI-UX-Review.md
+│   └── UI-UX-REVIEW.md
 │
 ├── Exploratory-Testing/
 │   └── Exploratory-Testing.md
@@ -148,7 +148,7 @@ The review includes observations related to:
 
 The complete review is available here:
 
-**[UI/UX Review](./UI-UX-Review/UI-UX-Review.md)**
+**[UI/UX Review](./UI-UX-Review/UI-UX-REVIEW.md)**
 
 ## Exploratory Testing
 
