@@ -1,6 +1,8 @@
 # EchoGPT Functional Test Cases
 
-This document contains the complete set of **100 functional test cases** executed for the EchoGPT application/extension.
+**Detailed Test Data:** The complete test case documentation, including test steps, actual results, and bug IDs, is available in the Excel file:
+
+**[EchoGPT_Functional_Test_Cases.xlsx](./EchoGPT_Functional_Test_Cases.xlsx)**
 
 ## Test Summary
 
@@ -118,6 +120,4 @@ This document contains the complete set of **100 functional test cases** execute
 - **Pass** — Actual result matched the expected result.
 - **Fail** — Actual result did not match the expected result.
 
-## Detailed Test Data
 
-The original Excel file contains additional execution details including test steps, actual results, and bug IDs.
