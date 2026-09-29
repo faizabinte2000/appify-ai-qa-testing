@@ -4,6 +4,20 @@ This repository contains the QA testing documentation for the **EchoGPT Multi AI
 
 The testing focused on functional behavior, usability, cross-platform differences, edge cases and unexpected behavior.
 
+## Applications Tested
+
+### Chrome Extension
+
+**EchoGPT Multi AI Chat**
+
+[Chrome Web Store](https://chromewebstore.google.com/detail/echogpt-multi-ai-chat-sid/negimdcamohmoheiifgecbjgjepkcfhj)
+
+### Android Application
+
+**EchoChat**
+
+[Google Play Store](https://play.google.com/store/apps/details?id=com.echogpt.chatapp&hl=en)
+
 ## Project Structure
 
 ```text
