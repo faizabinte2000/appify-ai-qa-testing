@@ -6,9 +6,17 @@
 
 ## Test Summary
 
-| Total Test Cases | Passed | Failed |
-|---:|---:|---:|
-| 100 | 74 | 17 |
+| Test Result | Number of Test Cases |
+|---|---:|
+| Passed | 74 |
+| Failed | 17 |
+| Pass With Observation | 3 |
+| Not Run | 4 |
+| Not Verified | 1 |
+| Observed Difference | 1 |
+| **Total** | **100** |
+
+A total of 100 functional test cases were documented and evaluated. Of these, 74 passed and 17 failed. Three test cases passed with observations, four were not run, one could not be verified, and one recorded an observed difference. The detailed test cases, actual results, and associated bug IDs are available in the accompanying Excel file.
 
 ## Functional Test Cases
 
@@ -119,5 +127,11 @@
 
 - **Pass** — Actual result matched the expected result.
 - **Fail** — Actual result did not match the expected result.
+- **Pass With Observation** — The expected functionality was achieved, but an observation or minor difference was noted during testing.
+- **Not Run** — The test case was documented but was not executed during the testing period.
+- **Not Verified** — The expected behavior could not be conclusively verified during testing.
+- **Observed Difference** — The behavior differed from the expected or comparable platform behavior and was recorded for further review.
+
+
 
 
