@@ -1,4 +1,4 @@
-## 4. Exploratory Testing
+Exploratory Testing
 
 I spent around 30–45 minutes exploring the EchoChat Android app and Chrome Extension beyond the planned test cases. I focused on how the main features behave during normal use and also checked some edge cases to find usability issues or unexpected behavior.
 
