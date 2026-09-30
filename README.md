@@ -115,11 +115,17 @@ The detailed test cases are available in:
 
 ### Test Summary
 
-| Total Test Cases | Passed | Failed |
-|---:|---:|---:|
-| 100 | 74 | 17 |
+| Test Result | Number of Test Cases |
+|---|---:|
+| Passed | 74 |
+| Failed | 17 |
+| Pass With Observation | 3 |
+| Not Run | 4 |
+| Not Verified | 1 |
+| Observed Difference | 1 |
+| **Total** | **100** |
 
-Some test cases were also marked as **Not Run**, **Pass With Observation** or **Observed Difference** where applicable.
+A total of 100 functional test cases were documented and evaluated. Of these, 74 passed and 17 failed. Three test cases passed with observations, four were not run, one could not be conclusively verified, and one recorded an observed difference. The detailed test cases, actual results, and associated bug IDs are available in the accompanying Excel file.
 
 ## Bug Reports
 
